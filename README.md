@@ -1,6 +1,7 @@
 This is the frontend repository for this project - https://github.com/Aditya32122/AI-Powered-Search-Engine-Frontend
 Live Demo - https://ai-powered-search-engine.netlify.app/
 ⚠️ NOTE : This site might take longer to load as it's hosted on a free platform.
+Demo video - https://www.loom.com/share/ff1046040caa4dd69a472dc6e8d25d98?sid=89f1ede7-9cf1-4c3b-8b2d-d25d7ad9e3c9
 
 Smart Search - AI-Powered Search Engine
 🚀 Smart Search is an AI-powered search engine that integrates Google Search, YouTube, and News APIs with Google Gemini AI to provide comprehensive and insightful search results.
